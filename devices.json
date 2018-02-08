@@ -1,0 +1,26 @@
+[
+   {
+      "name":"Moto G4 Play",
+      "brand":"Motorola",
+      "codename":"harpia",
+      "maintainer_name":"Wesley"
+   },
+   {
+      "name":"Redmi Note 4/4X",
+      "brand":"Xiaomi",
+      "codename":"mido",
+      "maintainer_name":"StarLord" 
+   },
+   {
+      "name":"Moto G 2015",
+      "brand":"Motorola",
+      "codename":"osprey",
+      "maintainer_name":"Zilberto Junior (ZJRDroid)"
+   },
+   {
+      "name":"Moto G Turbo",
+      "brand":"Motorola",
+      "codename":"merlin",
+      "maintainer_name":"Zilberto Junior (ZJRDroid)"
+   }
+   ]
